@@ -84,7 +84,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Liu, Cindy
 
-- [ ] Lu, Jane
+- [X] Lu, Jane (@YJLuLu) 😺😺😺
 
 - [ ] MacLean, Ian
 
